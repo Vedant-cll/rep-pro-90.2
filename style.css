@@ -1,0 +1,137 @@
+body{
+  background-image: url("https://i.pinimg.com/originals/ec/8d/14/ec8d14b3c3c40caee937b310c74d5891.jpg" );
+}	
+  .login_div1 , .login_div2
+	{
+		
+		padding: 10px;
+		float: none;
+        background-color: rgb(240, 247, 252);
+        border-radius: 10px;
+        border-color: darkgrey;
+        border-style: solid;
+        color: rgba(0, 5, 7, 0.76);
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	
+    border-radius: 20px;
+    border-color: darkgrey;
+    border-style: solid;
+    background-color: darkslategray;
+    color: white;
+}
+#word
+{
+	width: 399px;
+    height: 50px;
+    text-align: center;
+    margin-top: 50px;
+ border-width: 4px; 
+ border-style: solid;
+ border-color: black;  
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+
+}
+
+#h1_p1{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: italic;
+    font-weight:900;
+    background-color: rgb(240, 247, 252);
+    border-radius: 10px;
+    border-color: darkgrey;
+    border-style: solid;
+    color: rgba(0, 5, 7, 0.76);
+    font-size: 50px;;
+}
+button{
+    font-size: 40px;
+    border-radius: 10px;
+    border-color: rgb(108, 119, 167);
+    border-style: solid;
+    border-width: 3px;
+background-color: rgb(93, 145, 187);
+color: white;
+margin-top: 20px;
+}
+#output{
+    background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+
+}
+
+#div_1{
+    margin-top: 50px;
+}
+
+
+.column{
+    float: left;
+    width: 50%;
+    flex: 50%;
+   
+    height: 999px;
+}
+
+
+.column_2{
+    float: right;
+    width: 50%;
+    flex: 50%;
+       
+}
+#se-1{
+
+    background-color: rgba(0, 5, 7, 0.596);
+
+    height: 999px;
+    border-width: 5px;
+    border-color: darkslateblue;
+    border-style:solid ;
+}
+
+#h1-0_2{
+  
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: italic;
+    font-weight:900;
+    background-color: rgb(177, 237, 252);
+    color: white;
+    font-size: 50px;;
+    margin-top: 150px;
+}
+#se-3{
+
+    background-color: rgba(0, 5, 7, 0.596);
+
+    height: 999px;
+    border-width: 5px;
+    border-color: darkslateblue;
+    border-style:solid ;
+}
+#h2-2{
+color: black;
+background-color: white;
+font-size: 50px;
+border-color: black;
+border-width: 4px;
+border-style: solid;
+}
